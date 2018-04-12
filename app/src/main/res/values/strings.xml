@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="btn_man">Homem</string>
+    <string name="btn_woman">Mulher</string>
+    <string name="btn_imc">IMC</string>
+    <string name="btn_about">Sobre</string>
+    <string name="btn_calc">Calcular</string>
+    <string name="text_height">Altura</string>
+</resources>
